@@ -7,4 +7,7 @@ Created with a view to connecting people to information, this list below contain
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
 
-## Contribut
+## Contributing
+
+Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
