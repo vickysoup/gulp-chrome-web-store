@@ -12,4 +12,7 @@ Created with a view to connecting people to information, this list below contain
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 You can also contribute by sharing!  
-Share the list with your classmates, your friends and e
+Share the list with your classmates, your friends and everyone :)
+
+> By connecting more people to information,  
+> You, are doing n
