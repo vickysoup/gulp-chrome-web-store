@@ -17,4 +17,10 @@ Share the list with your classmates, your friends and everyone :)
 > By connecting more people to information,  
 > You, are doing not me, but everyone a HUGE favor!  
 >  
-> I really hope that more people can benefit f
+> I really hope that more people can benefit from this list :)
+
+
+## Table of Contents
+
+* [List of Lists](#list-of-lists)
+* [Sy
