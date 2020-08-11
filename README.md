@@ -26,4 +26,4 @@ Share the list with your classmates, your friends and everyone :)
 * [Syllabuses](#syllabuses)
 * [Tutorial Websites](#tutorial-websites)
 * [Open Courses](#open-courses)
-    * 
+    * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms
