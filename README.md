@@ -23,4 +23,7 @@ Share the list with your classmates, your friends and everyone :)
 ## Table of Contents
 
 * [List of Lists](#list-of-lists)
-* [Sy
+* [Syllabuses](#syllabuses)
+* [Tutorial Websites](#tutorial-websites)
+* [Open Courses](#open-courses)
+    * 
