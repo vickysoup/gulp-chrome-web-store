@@ -28,4 +28,5 @@ Share the list with your classmates, your friends and everyone :)
 * [Open Courses](#open-courses)
     * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
 * [Books](#books)
-    * [Books for Algorithms](#books
+    * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
+* [Sit
