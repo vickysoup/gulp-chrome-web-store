@@ -35,4 +35,6 @@ Share the list with your classmates, your friends and everyone :)
 * [Sites for Questions](#sites-for-questions)
 * [Implementations](#implementations)
 * [Language Specifics](#language-specifics)
-    * [C/C++](#cc) | [Java](#java) | [Miscellane
+    * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
+* [Tools](#tools)
+    * [IDEs](#ides) | [Personal use](#personal-us
