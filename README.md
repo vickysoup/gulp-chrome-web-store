@@ -30,4 +30,6 @@ Share the list with your classmates, your friends and everyone :)
 * [Books](#books)
     * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
 * [Sites for Practice](#sites-for-practice)
-    * [Problem Classifiers](#problem-classifiers) | [Co
+    * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
+* [Camps and Trainings](#camps-and-trainings)
+* [S
