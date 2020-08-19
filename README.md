@@ -39,4 +39,6 @@ Share the list with your classmates, your friends and everyone :)
 * [Tools](#tools)
     * [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
 * [Community](#community)
-    * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#
+    * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
+* [Other Awesome Resources](#other-awesome-resources) 
+    * [Article
