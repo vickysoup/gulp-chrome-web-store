@@ -34,4 +34,5 @@ Share the list with your classmates, your friends and everyone :)
 * [Camps and Trainings](#camps-and-trainings)
 * [Sites for Questions](#sites-for-questions)
 * [Implementations](#implementations)
-* 
+* [Language Specifics](#language-specifics)
+    * [C/C++](#cc) | [Java](#java) | [Miscellane
