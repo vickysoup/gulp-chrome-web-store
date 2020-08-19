@@ -37,4 +37,6 @@ Share the list with your classmates, your friends and everyone :)
 * [Language Specifics](#language-specifics)
     * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
 * [Tools](#tools)
-    * [IDEs](#ides) | [Personal use](#personal-us
+    * [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
+* [Community](#community)
+    * [
