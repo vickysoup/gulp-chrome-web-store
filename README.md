@@ -41,4 +41,9 @@ Share the list with your classmates, your friends and everyone :)
 * [Community](#community)
     * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
 * [Other Awesome Resources](#other-awesome-resources) 
-    * [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview
+    * [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
+* [License](#license)
+
+
+## List of Lists
+> Awesome curated lis
