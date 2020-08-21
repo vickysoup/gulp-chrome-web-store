@@ -46,4 +46,8 @@ Share the list with your classmates, your friends and everyone :)
 
 
 ## List of Lists
-> Awesome curated lis
+> Awesome curated lists classified by topics.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Goo
