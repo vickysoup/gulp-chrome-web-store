@@ -50,4 +50,4 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [Goo
+| ★★★ | [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.
