@@ -60,3 +60,5 @@ Share the list with your classmates, your friends and everyone :)
 > Find out what topics you need to learn.
 
 | ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/) | A det
