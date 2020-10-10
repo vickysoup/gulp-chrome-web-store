@@ -72,4 +72,4 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [Topcoder Data Science Tutorials](https://www.topcoder.com/community/data
+| ★★★ | [Topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) | A list of tutorials written by respected Topcode
