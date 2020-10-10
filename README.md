@@ -62,4 +62,5 @@ Share the list with your classmates, your friends and everyone :)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/) | A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC. |
-| ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the pre
+| ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
+| ★★☆ | [Programming Camp Syllabus](https://docs.google.com/documen
