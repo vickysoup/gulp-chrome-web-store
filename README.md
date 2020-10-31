@@ -73,4 +73,4 @@ Share the list with your classmates, your friends and everyone :)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) | A list of tutorials written by respected Topcoder members. Many top programmers started learning data sciences from here. |
-| ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://cp-algorithms.com/) | A tutorial website widely used and referenced in the Russian-speaking competitive pro
+| ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://cp-algorithms.com/) | A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Most of the articles of the original site have been transl
