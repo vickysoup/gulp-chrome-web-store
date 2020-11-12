@@ -79,4 +79,4 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/practice/notes/trending/) | A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/practice/codemonk/). |
 | ★★☆ | [USA Computing Olympiad (USACO)](http://www.usaco.org/) | Contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace. |
 | ★★☆ | [basecs](https://medium.com/basecs) | A blog with in-depth, illustrated tutorials on basic algorithms and data structures. |
-| ★★☆ | [Competitive Programming - Commonloun
+| ★★☆ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/ma
