@@ -81,4 +81,5 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [basecs](https://medium.com/basecs) | A blog with in-depth, illustrated tutorials on basic algorithms and data structures. |
 | ★★☆ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp) | Short video tutorials for beginner and intermediate concepts. Advanced tutorials selected from the best ones available on various CP blogs. |
 | ★☆☆ | [OLYMPIADS IN INFORMATICS](https://www.mii.lt/olympiads_in_informatics/index.html) | An international journal focused on the research and practice of professionals who are working in the field of teaching and learning informatics to talented student. |
-| ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some t
+| ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
+| ★★☆ | [演算法筆記 (Algorit
