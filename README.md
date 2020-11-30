@@ -89,4 +89,8 @@ Share the list with your classmates, your friends and everyone :)
 
 
 ## Open Courses
-> Consider beginning your competitive programmi
+> Consider beginning your competitive programming journey with these awesome courses!
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Code Monk](h
