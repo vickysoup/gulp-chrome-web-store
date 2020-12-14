@@ -96,4 +96,4 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Code Monk](https://www.hackerearth.com/practice/codemonk/), by HackerEarth | A fantastic step-by-step tutorial on the essential topics in competitive programming. |
 | ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 | ★★☆ | [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions-0) | A course by ITMO University on competitive coding on edX.|
-| ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https
+| ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures
