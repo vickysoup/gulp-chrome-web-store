@@ -101,4 +101,8 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides. |
 | ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming YouTube Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim. |
 
-### Open Courses for Algorithms and Data Structur
+### Open Courses for Algorithms and Data Structures
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [prakhar1989/awesome-course
