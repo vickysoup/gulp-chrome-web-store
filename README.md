@@ -107,4 +107,4 @@ Share the list with your classmates, your friends and everyone :)
 | --- | --- | --- |
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
-| ★★☆ | [UIUC 
+| ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, home
