@@ -111,4 +111,6 @@ Share the list with your classmates, your friends and everyone :)
 
 
 ## Books
-> A list
+> A list of recommended books for competitive programming.
+
+| ☆ | Name | Description 
