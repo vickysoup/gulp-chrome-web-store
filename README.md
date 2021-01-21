@@ -113,4 +113,6 @@ Share the list with your classmates, your friends and everyone :)
 ## Books
 > A list of recommended books for competitive programming.
 
-| ☆ | Name | Description 
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Competitive Programming](https://cpbook.net/), by
