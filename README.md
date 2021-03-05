@@ -122,4 +122,5 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), by Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars | This is a well-written book which covers a broad range of computational geometry problems. |
 | ★☆☆ | [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb | This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covers various topics relevant to competitive programming. |
 | ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. ... 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) |
-| ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基
+| ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
+| ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://
