@@ -128,4 +128,6 @@ Share the list with your classmates, your friends and everyone :)
 
 ### Books for Algorithms
 
-| ☆ | Name 
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Introduction to Algorithms](https://mit
