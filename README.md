@@ -141,4 +141,4 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★☆ | [Discr
+| ★★☆ | [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics
