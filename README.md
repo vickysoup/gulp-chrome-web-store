@@ -141,4 +141,4 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★☆ | [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050), by Kenneth H. Rosen | Disc
+| ★★☆ | [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050), by Kenneth H. Rosen | Discrete Mathematics is closely relevant to competitive programming. This book provides comprehe
