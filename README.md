@@ -150,4 +150,7 @@ Share the list with your classmates, your friends and everyone :)
 
 
 ## Sites for Practice
-> Good online judge systems
+> Good online judge systems / contest platforms to practice.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
