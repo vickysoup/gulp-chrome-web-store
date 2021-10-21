@@ -166,4 +166,5 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [UVa](https://uva.onlinejudge.org/) | An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](https://uhunt.onlinejudge.org/id/0) following its "Competitive Programming Exercise" section. |
 | ★★☆ | [HackerRank](https://www.hackerrank.com) | HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains. |
 | ★★☆ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. Most Chinese competitive programmers began their journey here. The platform is really dated so mysterious compilation and run-time issues may occur. |
-| ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where pe
+| ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
+| ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth i
