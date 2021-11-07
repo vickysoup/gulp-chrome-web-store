@@ -184,4 +184,5 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★★ | [Problem Classifier](http://problemclassifier.appspot.com/) | SPOJ |
 | ★★☆ | [UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) | CP Book |
 | ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset?tags=dp) | CF (DP) |
-| ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters
+| ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
+| ★★☆ | [Juniors Training Sheet](https://go
