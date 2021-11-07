@@ -181,4 +181,5 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [A2 Online Judge](https://a2oj.com/Categories.jsp) | Mixed |
-| ★★★ | 
+| ★★★ | [Problem Classifier](http://problemclassifier.appspot.com/) | SPOJ |
+| ★★☆ | [UVa Online Judge](
