@@ -176,4 +176,7 @@ Share the list with your classmates, your friends and everyone :)
 
 ### Problem Classifiers
 > Sites classifying programming problems.  
-Choose a category (eg. DP) of int
+Choose a category (eg. DP) of interest and practice problems on that topic.
+
+| ☆ | Name | Description |
+| --- | 
