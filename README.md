@@ -174,4 +174,6 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [CodeFights](https://codesignal.com/) | CodeFights is a website for competitive programming practice and interview preparation. It features daily challenges of varying difficulty, an archive of problems and regular (every 15 minutes) mini-tournaments. Good for beginners. |
 | ★★☆ | [OmegaUp](https://omegaup.com/) (Spanish) | OmegaUp is a community-based website for competitive programing training. It's also where Mexican Olympiad in Informatics (OMI : Olimpiada Mexicana de Informática) is hosted. |
 
-### Pro
+### Problem Classifiers
+> Sites classifying programming problems.  
+Choose a category (eg. DP) of int
