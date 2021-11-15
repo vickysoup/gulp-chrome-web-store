@@ -190,3 +190,5 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
 ### Contest Calendars
+> Calendars for impending programming contests.  
+(Never miss another contest!)
