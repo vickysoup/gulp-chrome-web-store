@@ -192,3 +192,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 ### Contest Calendars
 > Calendars for impending programming contests.  
 (Never miss another contest!)
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Programming Contest Calendar - HackerRank]
