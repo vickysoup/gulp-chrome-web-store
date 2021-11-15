@@ -198,4 +198,4 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
 | ★★☆ | [clist.by](https://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
-| ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders
+| ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.m
