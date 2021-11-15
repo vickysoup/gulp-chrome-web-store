@@ -196,3 +196,5 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
+| ★★☆ | [clist.by](https://clist.by/) | API available for use |
+| ★★☆ | [Coding Cale
