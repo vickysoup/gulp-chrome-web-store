@@ -205,4 +205,6 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 
 ## Sites for Questions
 > These are great sites to ask questions.  
-Paste your codes at [ideone](https://ideone.com/), [p
+Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.com/) or other sites to avoid formatting issues.
+
+| ☆ | Nam
