@@ -211,4 +211,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
 | ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
-| ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the ac
+| ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
+
+
+### Camps and Traini
