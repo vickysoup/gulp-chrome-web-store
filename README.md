@@ -214,4 +214,9 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
 
 
-### Camps and Traini
+### Camps and Trainings
+> Online Trainings and Camps.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ |
