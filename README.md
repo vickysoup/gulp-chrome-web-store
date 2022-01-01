@@ -223,4 +223,8 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 
 ## Implementations
-> Algorithm & Da
+> Algorithm & Data structure implementations.  
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Code
