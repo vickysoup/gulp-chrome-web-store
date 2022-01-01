@@ -219,4 +219,8 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [Online Free Problem-Solving Coaching](https://codeforces.com/blog/mostafa.saad.fci), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | See the coaching
+| ★★★ | [Online Free Problem-Solving Coaching](https://codeforces.com/blog/mostafa.saad.fci), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | See the coaching details and people comments on its nature/quality.|
+
+
+## Implementations
+> Algorithm & Da
