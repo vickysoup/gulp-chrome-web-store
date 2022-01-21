@@ -229,4 +229,5 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
 | ★★★ | [spaghetti-source/algorithm](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
-| ★★★ | [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (c
+| ★★★ | [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen. | 
+| ★★☆ | [jaehyunp/stanfordacm](https://github.com/
