@@ -238,4 +238,8 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 
 ## Language Specifics
-> Languag
+> Languages and other miscellaneous knowledge.
+
+### C/C++
+
+| ☆ | Name | Description 
