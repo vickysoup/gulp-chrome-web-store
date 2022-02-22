@@ -242,4 +242,6 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 ### C/C++
 
-| ☆ | Name | Description 
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Power up C++ with the Standard Template Library - Topcoder: Par
