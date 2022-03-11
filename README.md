@@ -252,4 +252,6 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 ### Java
 
-| ☆ | Name | Des
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [How to read input in Java — tutorial - Codeforces](http://codefo
