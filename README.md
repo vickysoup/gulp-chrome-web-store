@@ -262,4 +262,5 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 ### Miscellaneous
 
 | ☆ | Name | Description |
-| --- | ---
+| --- | --- | --- |
+| ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.h
