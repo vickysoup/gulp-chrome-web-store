@@ -263,4 +263,5 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.h
+| ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
+| ★★★ | [Comparing 
