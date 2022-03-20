@@ -274,4 +274,5 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 ### IDEs
 
 | ☆ | Name | Platform | Description |
-| --- | --- |
+| --- | --- | --- | --- |
+| ★★★ | [Vim](https://www.vim.org/download.php) | CLI / Cross-Platform | Vim is o
