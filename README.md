@@ -269,4 +269,9 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 
 ## Tools
-> Awesome tools that will make your lif
+> Awesome tools that will make your life easier.
+
+### IDEs
+
+| ☆ | Name | Platform | Description |
+| --- | --- |
