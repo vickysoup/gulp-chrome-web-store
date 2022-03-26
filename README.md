@@ -276,4 +276,4 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ☆ | Name | Platform | Description |
 | --- | --- | --- | --- |
 | ★★★ | [Vim](https://www.vim.org/download.php) | CLI / Cross-Platform | Vim is one of the most popular text editors among advanced programmers. It allows text-editing to be done very efficiently with solely keystrokes. Vim is also highly configurable, extensible and integrates with shells (command lines) really well. The only setback about Vim is that it has a high learning curve for beginners. |
-| ★★★ | [Emacs](https://www.gnu.org/software/emacs/download.html) | CLI / Cross-Platform | Emacs is another popular text editor (or development envi
+| ★★★ | [Emacs](https://www.gnu.org/software/emacs/download.html) | CLI / Cross-Platform | Emacs is another popular text editor (or development environment to be more precise). The debate on "Vim vs. Emacs" is constantly brought up
