@@ -286,3 +286,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★☆☆ | Other IDEs | Mixed | [Visual Studio](https://visualstudio.microsoft.com/vs/community/) is the IDE to use in case you want to code in C#. ... Both [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/) are built with Electron (written in JavaScript) and therefore somewhat resource-hogging. ... [CodeLite](https://codelite.org/) is a newly rising IDE. Beware that the load-up and project-creation times can be extraordinary. | 
 
 ### Personal use
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [VisuAlgo](https://visualgo.net/en) 
