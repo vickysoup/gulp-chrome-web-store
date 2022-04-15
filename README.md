@@ -289,4 +289,5 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [VisuAlgo](https://visualgo.net/en) | A website featuring a large collection of visualization tools for algorithms a
+| ★★★ | [VisuAlgo](https://visualgo.net/en) | A website featuring a large collection of visualization tools for algorithms and data structures. |
+| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrain
