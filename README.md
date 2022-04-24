@@ -300,4 +300,6 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 ### Contest Preparation
 
-| ☆ | Name 
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [polygon](https://polygon.codeforces.com/)
