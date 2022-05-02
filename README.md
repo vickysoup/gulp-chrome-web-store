@@ -311,4 +311,5 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 
 ## Community
->
+> Meet the god-like competitive programmers!  
+Learn helpful tips, tutorials and insights
