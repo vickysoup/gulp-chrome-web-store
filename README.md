@@ -319,4 +319,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Name (Handle) | Blog Name |
 | --- | --- |
 | | [Codeforces blogs](http://codeforces.com/) |
-| Petr Mitrichev (Petr) | [Algorithms Weekly](
+| Petr Mitrichev (Petr) | [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) |
+| Makoto Soejima (rng_58) | [rng_58's blog](https://rng
