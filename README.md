@@ -323,4 +323,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | Makoto Soejima (rng_58) | [rng_58's blog](https://rng-58.blogspot.com) |
 | Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
 | Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
-| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep20
+| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
+| vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
+| Ash
