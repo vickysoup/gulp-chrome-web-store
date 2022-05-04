@@ -318,4 +318,5 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Name (Handle) | Blog Name |
 | --- | --- |
-| 
+| | [Codeforces blogs](http://codeforces.com/) |
+| Petr Mitrichev (Petr) | [Algorithms Weekly](
