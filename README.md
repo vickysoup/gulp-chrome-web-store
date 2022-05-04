@@ -321,4 +321,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | | [Codeforces blogs](http://codeforces.com/) |
 | Petr Mitrichev (Petr) | [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) |
 | Makoto Soejima (rng_58) | [rng_58's blog](https://rng-58.blogspot.com) |
-| Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemer
+| Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
+| Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
+|
