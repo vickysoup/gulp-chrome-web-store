@@ -326,4 +326,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
 | vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
 | Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
-| LiJie Chen (WJMZBMR) 
+| LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
+| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](h
