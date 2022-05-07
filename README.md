@@ -328,4 +328,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
 | LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
 | Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.com/) |
-| Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese
+| Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
+| Yuhao Du (TooDifficuIt, TooSimple, xudyh) | [xudyh (Chine
