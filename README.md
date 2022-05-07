@@ -325,4 +325,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
 | Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
 | vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
-| Ash
+| Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
+| LiJie Chen (WJMZBMR) 
