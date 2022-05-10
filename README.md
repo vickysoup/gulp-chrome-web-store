@@ -336,4 +336,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Name (Handle) | Link |
 | --- | --- |
 | Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) |
-| Gate Lectures by Ravindrababu Ravula | [Youtube](https://www.youtube.com/channel/U
+| Gate Lectures by Ravindrababu Ravula | [Youtube](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ) |
+| Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Progra
