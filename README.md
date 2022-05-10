@@ -335,4 +335,5 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Name (Handle) | Link |
 | --- | --- |
-| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKl
+| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) |
+| Gate Lectures by Ravindrababu Ravula | [Youtube](https://www.youtube.com/channel/U
