@@ -334,4 +334,5 @@ Learn helpful tips, tutorials and insights from these people :)
 ### Youtube and Livestreams
 
 | Name (Handle) | Link |
-| ---
+| --- | --- |
+| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKl
