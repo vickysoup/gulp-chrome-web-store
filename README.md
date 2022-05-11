@@ -341,4 +341,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
 | GeeksforGeeks | [Youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) |
 | Algorithms Live! | [Youtube](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)|
-| CodeChef | [Youtube](https://www.youtube.com/user/codechefo
+| CodeChef | [Youtube](https://www.youtube.com/user/codechefofficial/featured) |
+| HackerRank | [Youtube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD
