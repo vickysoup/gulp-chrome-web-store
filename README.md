@@ -342,4 +342,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | GeeksforGeeks | [Youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) |
 | Algorithms Live! | [Youtube](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)|
 | CodeChef | [Youtube](https://www.youtube.com/user/codechefofficial/featured) |
-| HackerRank | [Youtube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD
+| HackerRank | [Youtube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos) |
+| IDeserve | [Youtube](https://www.youtube.com/channel/UCMNkvKnD3mo3
