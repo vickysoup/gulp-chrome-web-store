@@ -344,4 +344,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | CodeChef | [Youtube](https://www.youtube.com/user/codechefofficial/featured) |
 | HackerRank | [Youtube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos) |
 | IDeserve | [Youtube](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw/featured) |
-| code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of Hacker
+| code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of HackerRank, LeetCode, Topcoder and Codeforces. |
+| "Sothe" the Algorithm Wolf | [Youtube](
