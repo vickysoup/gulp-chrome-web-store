@@ -345,4 +345,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | HackerRank | [Youtube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos) |
 | IDeserve | [Youtube](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw/featured) |
 | code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of HackerRank, LeetCode, Topcoder and Codeforces. |
-| "Sothe" the Algorithm Wolf | [Youtube](
+| "Sothe" the Algorithm Wolf | [Youtube](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) |
+| Egor Kulikov (Egor) | [Yout
