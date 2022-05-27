@@ -361,4 +361,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | William Feset | [Youtube](https://www.youtube.com/user/purpongie), High quality videos covering almost all data structures, algorithms |
 
 ### Quora
-> Visit [Competitive Programming - Quora](https://www.quora.com/topi
+> Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.
