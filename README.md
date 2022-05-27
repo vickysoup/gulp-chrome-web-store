@@ -355,4 +355,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
 | David Harmeyer (SecondThread) | [Youtube](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g), Editorials, High qualtiy lectures(advanced topics) |
 | mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool), High quality videos on basic programming, data structures and algorithms |
-| William Lin (tmwilliamlin168) | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q), M
+| William Lin (tmwilliamlin168) | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q), Mostly streams, tips but inspiring and sometimes insightful |
+| CodeNCode (kazama460) | 
