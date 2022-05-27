@@ -358,4 +358,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | William Lin (tmwilliamlin168) | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q), Mostly streams, tips but inspiring and sometimes insightful |
 | CodeNCode (kazama460) | [Youtube](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ), Short lectures covering various CP related topics like Graph Theory, Number theory, DP, Advanced Data structures. |
 | Colin Galen (galen_colin) | [Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw), Editorials, screencasts |
-| William Feset | [Youtube](https
+| William Feset | [Youtube](https://www.youtube.com/user/purpongie), High quality videos covering almost all data structu
