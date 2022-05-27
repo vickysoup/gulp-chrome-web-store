@@ -354,4 +354,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | Mikhail Tikhomirov (Endagorion) | [Youtube](https://www.youtube.com/user/Endagorion/) |
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
 | David Harmeyer (SecondThread) | [Youtube](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g), Editorials, High qualtiy lectures(advanced topics) |
-| myco
+| mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool), High
