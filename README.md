@@ -365,4 +365,4 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Important Community Figures | Description |
 | --- | --- |
-| [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executi
+| [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executive Director of [ACM-ICPC](https://icpc.baylor.edu). CS Professor at Baylor Universi
