@@ -363,4 +363,6 @@ Learn helpful tips, tutorials and insights from these people :)
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
-| Important Community Figures | Descriptio
+| Important Community Figures | Description |
+| --- | --- |
+| [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executi
