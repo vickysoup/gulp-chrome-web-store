@@ -366,4 +366,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | Important Community Figures | Description |
 | --- | --- |
 | [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executive Director of [ACM-ICPC](https://icpc.baylor.edu). CS Professor at Baylor University. | 
-| [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | Organizer of [IPSC](https://ipsc.ksp.sk) and [IOI](https://ioinformatics.org/). CS T
+| [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | Organizer of [IPSC](https://ipsc.ksp.sk) and [IOI](https://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm and CS Education Researcher. Former hi
