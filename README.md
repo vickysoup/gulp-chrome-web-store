@@ -371,4 +371,4 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Competitive Programmers |  |  |  
 | --- | --- | --- |  
-| [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora
+| [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi) | [Jonathan
