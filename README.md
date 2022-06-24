@@ -372,4 +372,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Competitive Programmers |  |  |  
 | --- | --- | --- |  
 | [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson) |  
-| [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák (Mimino)](https://www.quora.com/prof
+| [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  
+| [Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quo
