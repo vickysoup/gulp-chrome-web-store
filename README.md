@@ -370,4 +370,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly) | Founder of [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com) Lead Software Engineer. Former member of the [Google Code Jam](https://code.google.com/codejam/) team. |
 
 | Competitive Programmers |  |  |  
-| --- |
+| --- | --- | --- |  
+| [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora
