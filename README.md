@@ -387,4 +387,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | Subject |
 | --- |
 | [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
-| [The 'science' of training in competitive programming -
+| [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen
