@@ -386,4 +386,4 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Subject |
 | --- |
-| [Overview of Pr
+| [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysła
