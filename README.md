@@ -388,4 +388,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | --- |
 | [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
 | [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
-| [If you ask me how to improve your algorithm competition skill, I will give you th
+| [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I
