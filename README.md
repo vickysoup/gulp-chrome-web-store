@@ -389,4 +389,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
 | [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
 | [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
-| [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeks
+| [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/), by Vishwesh Shrimali |
+| [Complete ref
