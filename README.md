@@ -390,4 +390,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
 | [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
 | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/), by Vishwesh Shrimali |
-| [Complete reference to competitive programming - HackerEarth](https://www.hackerearth.com/getstar
+| [Complete reference to competitive programming - HackerEarth](https://www.hackerearth.com/getstarted-competitive-programming/), by Ravi Ojha |
+| [Getting started with the spor
