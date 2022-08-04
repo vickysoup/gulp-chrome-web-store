@@ -398,4 +398,4 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Question |
 | --- |
-| [How do I sta
+| [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitiv
