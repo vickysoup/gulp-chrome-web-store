@@ -394,4 +394,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | [Getting started with the sport of competitive programming - HackerEarth](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/), by Triveni Mahatha |
 
 ### FAQs
-> Fine a
+> Fine answers to frequently-asked questions 
+
+| Question |
+| --- |
+| [How do I sta
