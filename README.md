@@ -399,4 +399,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | Question |
 | --- |
 | [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5) |
-| [How can I become good at competitive programming? -
+| [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-th
