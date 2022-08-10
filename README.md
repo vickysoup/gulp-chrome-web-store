@@ -399,4 +399,4 @@ Learn helpful tips, tutorials and insights from these people :)
 | Question |
 | --- |
 | [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5) |
-| [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems) ... [What is the best strategy to improve my skills in competitive programming in 2-3 months? - Quora](https://www.quora.com/What-is-the-best-strategy-t
+| [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems) ... [What is the best strategy to improve my skills in competitive programming in 2-3 months? - Quora](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months) ... [What is a good 6 
