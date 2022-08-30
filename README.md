@@ -404,4 +404,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming) |
 
 ### Awesome Lists
-> Relevant a
+> Relevant awesome lists
+
+| Name | Link |
+| --- | --- |
+| C++ Books | [The Definitive C++ Book Guide an
