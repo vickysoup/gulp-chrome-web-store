@@ -408,4 +408,5 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Name | Link |
 | --- | --- |
-| C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-
+| C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+| Java Books | [What are the best books to learn Java? - Quora](h
