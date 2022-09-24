@@ -412,4 +412,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
 | Algorithms | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
-| Alg
+| Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
+| Math | [ro
