@@ -413,4 +413,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
 | Algorithms | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
-| Math | [ro
+| Math | [rossant/awesome-math](https://github.com/rossant/awesome-math) |
+| C++ | [fffaraz/awesome-c
