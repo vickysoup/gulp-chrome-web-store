@@ -415,4 +415,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math](https://github.com/rossant/awesome-math) |
 | C++ | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-jav
+| Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
+| Courses | [prakhar1989/awesome-courses](https
