@@ -414,4 +414,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Algorithms | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-c
+| C++ | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
+| Java | [akullpp/awesome-jav
