@@ -424,4 +424,5 @@ Learn helpful tips, tutorials and insights from these people :)
 | Name | Description |
 | --- | --- |
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
-| [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-p
+| [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
+| [Awesome Inter
