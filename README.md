@@ -431,4 +431,6 @@ Learn helpful tips, tutorials and insights from these people :)
 
 ## License
 
-[![Creative Commons Attribution 4.0 International](https://i.creativec
+[![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+Awesome Competi
